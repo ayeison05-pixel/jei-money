@@ -1,0 +1,25 @@
+{
+  "name": "Control de Ingresos Laborales",
+  "short_name": "Mis Ingresos",
+  "description": "Registra tus pagos por trabajo, sueldos o clientes",
+  "start_url": "https://ayeison05-pixel.github.io/jei-money/index.html",
+  "scope": "https://ayeison05-pixel.github.io/jei-money/",
+  "display": "standalone",
+  "theme_color": "#10B981",
+  "background_color": "#F0F9F4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://ayeison05-pixel.github.io/jei-money/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://ayeison05-pixel.github.io/jei-money/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
